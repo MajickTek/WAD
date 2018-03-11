@@ -4,7 +4,7 @@ iwad="DOOM.WAD"
 # the game WAD with the textures/sounds/etc
 skill="3"
 # Skill level; available ones depend on game. This one is Doom's Hurt Me Plenty.
-pwad="e1m8b.wad"
+pwad="test.wad"
 # Extra WAD.
 #Several WADs can be loaded one after the other, and the latest WAD will override maps in earlier WADs.
 warpe="1"
