@@ -5,5 +5,5 @@ Simple set of scripts that you can modify to your needs to load and play maps fr
 
 Requires DOOM/GZDooom. The command-line format is for Doom 1 only.
 
-#CREDITS
+# CREDITS
 Created with https://github.com/BYVoid/Batsh.
